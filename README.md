@@ -1,6 +1,6 @@
-# Lainchan /diy recipes
+# DIY recipes
 
-this is a collaboration of recipes from Lainchan /DIY.  contributions should be in plaintext format.
+this is a collaboration of recipes from Lainchan.org /DIY.  contributions should be in plaintext format.
 PDF accepted when necessary.
 
 ### General Guidelines:
@@ -11,4 +11,4 @@ PDF accepted when necessary.
 
 
 ### TO DO:
-explain how to cook the 32 recipes ive added.
+explain how to cook the 32 recipes ive added :P
