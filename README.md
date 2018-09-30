@@ -1,6 +1,7 @@
-# DIY recipes and frugal living
+# The frugal repo.
+## DIY recipes and frugal living
 
-this is a collaboration of recipes from Lainchan.org /DIY, expanded to include a primer on frugal living.  contributions should be in plaintext format.
+this is a collaboration of recipes from Lainchan.org /DIY, expanded to include a primer on frugal living.  contributions should be in plaintext format.  
 PDF accepted when necessary.
 
 ### General Guidelines:
