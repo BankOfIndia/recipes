@@ -1,5 +1,6 @@
 # The frugal repo.
 ## DIY recipes and frugal living
+"use it up, wear it out, make it do or do without"
 
 this is a collaboration of recipes from Lainchan.org /DIY, expanded to include a primer on frugal living.  contributions should be in plaintext format.  
 PDF accepted when necessary.
@@ -16,6 +17,9 @@ Most websites on this topic are clickbait masquerading as a legitimate ideas for
 Pay close attention, the first thing most of these blogs/vlogs/sockpuppet theatre articles do is attempt to provide you with a product or service
 you can click on to order.  Buying things != frugal living.
 GIT does not support sexy marketing tie-ins or branding, so its much easier to quickly convey the form and function of frugality.
+
+### some of this seems time consuming and inefficient.
+The goal of this repository is not to make an economic build/buy argument, but to sidestep the predatory and increasingly harmful culture of consumerism driven by large multinational corporations.
 
 ### TO DO:
 explain how to cook the 32 recipes ive added :P
