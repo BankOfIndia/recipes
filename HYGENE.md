@@ -1,8 +1,8 @@
-###frugal hygene
+### frugal hygene
 
 This section covers basic improvements to personal hygene.
 
-###The navy shower
+### The navy shower
 Also known as the combat shower,  sea shower, or military shower, this method of bathing 
 significantly reduces the amount of water used during bathing.  Navy showers originated on 
 naval ships where freshwater was scarce.  
@@ -10,7 +10,7 @@ naval ships where freshwater was scarce.
 - turn water off.  Apply soap.
 - turn water on. rinse soap off.
 
-###Shaving
+### Shaving
 The shaving industry is a rich tapestry of profiteering at the expense of human insecurity.  
 The most frugal option is to simply not shave, however this is simply not a reasonable choice in many 
 cases.
@@ -24,7 +24,7 @@ cases.
 	Shaving creams are an abundant source of shareholde value.  a bar of soap will last longer than a can of shaving cream,
 	and is more versatile.  application can be by brush or by hand.
 
-###Soap
+### Soap
 Soap is inexpensive to manufacture and stores indefinitely.  The soap recipe included in the recipes folder will produce
 a high quality castile soap from nothing but olive oil, water, and lye.  This soap is mild enough for hair, body, and shaving.
 
