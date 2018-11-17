@@ -23,3 +23,8 @@ The goal of this repository is not to make an economic build/buy argument, but t
 
 ### TO DO:
 explain how to cook the 32 recipes ive added :P
+
+
+# Sections:
+[Hygene](HYGENE.md)
+[Recipes](recipes/README.md)
