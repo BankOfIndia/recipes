@@ -1,4 +1,5 @@
-### frugal hygene
+Hygene
+======
 
 This section covers basic improvements to personal hygene.
 
